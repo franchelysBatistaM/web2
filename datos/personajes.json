@@ -1,0 +1,57 @@
+[
+    {
+        "cedula": "123222",
+        "foto_url": "https:\/\/www.postavy.cz\/foto\/marcus-copeland-foto.jpg",
+        "nombre": "Marlon ",
+        "apellido": "Wayans",
+        "fecha_nacimiento": "1972-07-23",
+        "sexo": "Masculino",
+        "habilidades": "comediante",
+        "comida_favorita": "comida soul",
+        "codigo_obra": "2024023"
+    },
+    {
+        "cedula": "09876",
+        "foto_url": "https:\/\/www.elhomenoticias.com\/wp-content\/uploads\/2019\/08\/Mi-pobre-angelito..-768x479.jpg",
+        "nombre": "Kevin",
+        "apellido": "Mac",
+        "fecha_nacimiento": "1999-09-09",
+        "sexo": "Masculino",
+        "habilidades": "comediante",
+        "comida_favorita": "confle",
+        "codigo_obra": "12345"
+    },
+    {
+        "cedula": "6789",
+        "foto_url": "https:\/\/m.media-amazon.com\/images\/S\/pv-target-images\/1077c5f194f0a09f61587f57f930167e3407510f0028322bc3927bd8f07728e4._SX1080_FMpng_.png",
+        "nombre": "Kevin",
+        "apellido": "Mac",
+        "fecha_nacimiento": "1999-09-09",
+        "sexo": "Masculino",
+        "habilidades": "comediante",
+        "comida_favorita": "confle",
+        "codigo_obra": "012345"
+    },
+    {
+        "cedula": "8787",
+        "foto_url": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/09b849a4ee850496013e9f7561703e7c2c34b84f9d0059d8fb19ff0814b6f366._RI_TTW_.jpg",
+        "nombre": "niod",
+        "apellido": "cola",
+        "fecha_nacimiento": "2000-02-22",
+        "sexo": "Masculino",
+        "habilidades": "frudjhj",
+        "comida_favorita": "hueso",
+        "codigo_obra": "8788"
+    },
+    {
+        "cedula": "098123",
+        "foto_url": "https:\/\/i.pinimg.com\/originals\/c4\/18\/0a\/c4180ae9be3804c4fd64de9041b10e63.jpg",
+        "nombre": "Klauss",
+        "apellido": "Michaelson",
+        "fecha_nacimiento": "1988-02-08",
+        "sexo": "Masculino",
+        "habilidades": "muy veloz",
+        "comida_favorita": "carne",
+        "codigo_obra": "7654"
+    }
+]

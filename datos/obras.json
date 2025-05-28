@@ -1,0 +1,65 @@
+[
+    {
+        "codigo": "2024023",
+        "foto_url": "https:\/\/vignette1.wikia.nocookie.net\/doblaje\/images\/3\/3d\/Y-donde-estan-las-rubias-white-chicks-shawn-wayans-vhs-5439-MLA4389453419_052013-F.jpg\/revision\/latest?cb=20161018214826&path-prefix=es",
+        "tipo": "Pel\u00edcula",
+        "nombre": "Y donde estan la rubias?",
+        "descripcion": "Es una pel\u00edcula de comedia, donde 2 agentes de FBI se disfrazan de 2 chicas para resolver un caso de secuestro",
+        "pais": "Estados Unidos",
+        "autor": "Keenen Ivory Wayans"
+    },
+    {
+        "codigo": "0987",
+        "foto_url": "https:\/\/pics.filmaffinity.com\/the_mask-746858956-large.jpg",
+        "tipo": "Pelicula",
+        "nombre": "La mascara",
+        "descripcion": "trata de un hombre que usa una mascara y le empiezan a suceder cosas......",
+        "pais": "Estados Unidos",
+        "autor": "Chuck Russell"
+    },
+    {
+        "codigo": "12345",
+        "foto_url": "https:\/\/i.pinimg.com\/736x\/5b\/dc\/af\/5bdcaf29226e8f3db1d0afc2790a8722.jpg",
+        "tipo": "Pelicula",
+        "nombre": "Mi pobre angelito",
+        "descripcion": "trata de un ni\u00f1o que se queda por accidente solo y ahora debo cuidar la casa de unos ladrones ",
+        "pais": "Estados Unidos",
+        "autor": "John Machel"
+    },
+    {
+        "codigo": "123456",
+        "foto_url": "https:\/\/http2.mlstatic.com\/bluray-mi-pobre-angelito-2-home-alone-2-1992-chris-col-D_NQ_NP_633501-MLM26046414982_092017-F.jpg",
+        "tipo": "Pelicula",
+        "nombre": "Mi pobre angelito 2",
+        "descripcion": "es la segunda parte de mi pobre angelito y ahora se enfrentara a nuevos desafios en New York",
+        "pais": "Estados Unidos",
+        "autor": "John Machel"
+    },
+    {
+        "codigo": "012345",
+        "foto_url": "https:\/\/vignette.wikia.nocookie.net\/doblaje\/images\/b\/b0\/Mi_pobre_angelito_3_poster_1997.jpg\/revision\/latest?cb=20200305002528&path-prefix=es",
+        "tipo": "Pelicula",
+        "nombre": "Mi pobre angelito 3",
+        "descripcion": "la tercera parte de mi pobre angelito y ahora enfrenta nuevos desafios",
+        "pais": "Estados unidos",
+        "autor": "John Machl"
+    },
+    {
+        "codigo": "8788",
+        "foto_url": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/09b849a4ee850496013e9f7561703e7c2c34b84f9d0059d8fb19ff0814b6f366._RI_TTW_.jpg",
+        "tipo": "Serie",
+        "nombre": "Carusel",
+        "descripcion": "serie jevie",
+        "pais": "no se",
+        "autor": "fulanito"
+    },
+    {
+        "codigo": "7654",
+        "foto_url": "https:\/\/image.tmdb.org\/t\/p\/original\/s0EDspmzDpiRCtGHQFjAfxYBeh3.jpg",
+        "tipo": "Serie",
+        "nombre": "the originals",
+        "descripcion": "trata de una familia antigua de licontropos, vampiros. que enfrentan grandes pruebas.",
+        "pais": "Estados Unidos",
+        "autor": "Felix limp"
+    }
+]
